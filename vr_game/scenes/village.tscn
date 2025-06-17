@@ -2,6 +2,11 @@
 
 [ext_resource type="PackedScene" uid="uid://bir2a70p7omcv" path="res://village.gltf" id="1_e5asd"]
 
-[node name="Node3D" type="Node3D"]
+[node name="Village" type="Node3D"]
 
 [node name="Village" parent="." instance=ExtResource("1_e5asd")]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.984808, 0.173648, 0, -0.173648, 0.984808, -114.62, 6.22914, 21.6912)
+current = true
+fov = 73.0874
