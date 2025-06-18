@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bhv5husil3wde"]
+
+[ext_resource type="PackedScene" uid="uid://c5l4w7hewnjb8" path="res://scene.gltf" id="1_swaxu"]
+
+[node name="Human" type="Node3D"]
+
+[node name="human" parent="." instance=ExtResource("1_swaxu")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0374863, 0, 0.00619555)

@@ -1,11 +1,11 @@
 Model Information:
-* title:	КБ Отель посадка
-* source:	https://sketchfab.com/3d-models/c8b68c1b65c44a60bedad2d53452413a
-* author:	o.skukowski (https://sketchfab.com/o.skukowski)
+* title:	MaleRefStylized2
+* source:	https://sketchfab.com/3d-models/malerefstylized2-e5a813097ef24bcab009d8a492db6570
+* author:	MrPumpkinDev (https://sketchfab.com/MrPumpkinDev)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "КБ Отель посадка" (https://sketchfab.com/3d-models/c8b68c1b65c44a60bedad2d53452413a) by o.skukowski (https://sketchfab.com/o.skukowski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "MaleRefStylized2" (https://sketchfab.com/3d-models/malerefstylized2-e5a813097ef24bcab009d8a492db6570) by MrPumpkinDev (https://sketchfab.com/MrPumpkinDev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

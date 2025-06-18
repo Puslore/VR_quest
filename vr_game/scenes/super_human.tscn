@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bloo0dr407780"]
+
+[ext_resource type="PackedScene" uid="uid://c5l4w7hewnjb8" path="res://scene.gltf" id="1_dqj25"]
+
+[node name="SuperHuman" type="Node3D"]
+
+[node name="super_human" parent="." instance=ExtResource("1_dqj25")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.40362, -11.1746, -7.93098)
