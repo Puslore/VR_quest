@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bir2a70p7omcv"
-path="res://.godot/imported/village.gltf-18eb236afd6e5aca726ccd904ab29789.scn"
+valid=false
 
 [deps]
 
 source_file="res://village.gltf"
-dest_files=["res://.godot/imported/village.gltf-18eb236afd6e5aca726ccd904ab29789.scn"]
 
 [params]
 

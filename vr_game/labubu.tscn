@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://455yalvjamig"]
+
+[ext_resource type="PackedScene" uid="uid://c8l60rnugru40" path="res://addons/godot-xr-tools/objects/pickable.tscn" id="1_v3d70"]
+[ext_resource type="PackedScene" uid="uid://vm5m1yf2srvq" path="res://labubu_game_ready_3d_model_rigged (1).glb" id="2_skqpt"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_27a20"]
+radius = 0.322794
+height = 1.10041
+
+[node name="PickableObject" instance=ExtResource("1_v3d70")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.000531077, 0.008461, -0.00218749)
+mass = 5.0
+
+[node name="CollisionShape3D" parent="." index="0"]
+shape = SubResource("CapsuleShape3D_27a20")
+
+[node name="Sketchfab_Scene" parent="." index="1" instance=ExtResource("2_skqpt")]
+transform = Transform3D(0.485, 0, 0, 0, 0.485, 0, 0, 0, 0.485, 0, -0.516343, 0)
